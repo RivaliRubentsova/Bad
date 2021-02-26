@@ -34,7 +34,7 @@ namespace Bad
             }
             else
             {
-                Console.WriteLine("Недопустимое числ");
+                Console.WriteLine("Недопустимое число");
             }
 
             Console.ReadKey();
